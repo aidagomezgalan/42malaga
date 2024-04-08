@@ -1,31 +1,33 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   philo.c                                            :+:      :+:    :+:   */
+/*   routine_msg.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: aidgomez <aidgomez@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/03/30 20:50:57 by aidgomez          #+#    #+#             */
-/*   Updated: 2024/04/02 22:18:02 by aidgomez         ###   ########.fr       */
+/*   Created: 2024/04/03 13:14:34 by aidgomez          #+#    #+#             */
+/*   Updated: 2024/04/08 21:25:37 by aidgomez         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "philo.h"
 
-void	data_init(char **argv)
+void	eat_msg(int philo_id)
 {
-	//init structs
+	printf("[%ld] %i is eating", get_ms_time(), philo_id);
 }
 
-void	dinner_start(t_table *table)
+void	sleep_msg(int philo_id)
 {
-	//start simulation
+	printf("[%ld] %i is sleeping", get_ms_time(), philo_id);
 }
 
-int	main(int argc, char **argv)
+void	think_msg(int philo_id)
 {
-	if (data_checker)
-		//start dinner
-	else
-		//error msg (Wrong input. Almost 4 params)
+	printf("[%ld] %i is thinking", get_ms_time(), philo_id);
+}
+
+void	died_msg(int philo_id)
+{
+	printf("[%ld] %i is died", get_ms_time(), philo_id);
 }

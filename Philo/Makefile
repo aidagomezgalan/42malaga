@@ -13,6 +13,10 @@ NAME = philo
 
 # Source code files
 SRC = data_checker.c \
+	struct_init.c \
+	routine_msg.c \
+	threads.c \
+	threads_routine.c \
 	philo.c
 
 # Object code files
