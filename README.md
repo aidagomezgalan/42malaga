@@ -8,3 +8,18 @@ En este repositorio se encuentran los enlaces a los proyectos realizados en **42
 In this repository there are links to projects carried out in **42 Málaga**.
 
 # Projects
+[Exam Rank 02](https://github.com/aidagomezgalan/exam-rank-02)
+
+[Philosophers](https://github.com/aidagomezgalan/philosophers)
+
+[So Long](https://github.com/aidagomezgalan/so-long)
+
+[Push Swap](https://github.com/aidagomezgalan/push-swap)
+
+[Printf](https://github.com/aidagomezgalan/printf)
+
+[Minitalk](https://github.com/aidagomezgalan/minitalk)
+
+[Get Next Line](https://github.com/aidagomezgalan/get-next-line)
+
+[libft](https://github.com/aidagomezgalan/libft)
