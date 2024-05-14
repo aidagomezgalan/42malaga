@@ -22,4 +22,4 @@ In this repository there are links to projects carried out in **42 Málaga**.
 
 [Get Next Line](https://github.com/aidagomezgalan/get-next-line)
 
-[libft](https://github.com/aidagomezgalan/libft)
+[Libft](https://github.com/aidagomezgalan/libft)
